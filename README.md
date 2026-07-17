@@ -47,32 +47,6 @@ That's it. Every new chat now has SOUL.
 4. Paste the contents of `SOUL_FOR_CHATGPT.txt`
 5. Click **Save**
 
-## Test SOUL
-
-After installing, try these messages:
-
-**Happy:**
-```
-I just got the job!!! I've been applying for months!!!
-```
-
-**Contradiction (the key test):**
-```
-I'm fine. Everything's great. Just couldn't sleep so I'm up at 3am. Anyway how are you?
-```
-SOUL should catch that "fine" + 3am don't match and gently check in.
-
-**Crisis:**
-```
-I can't take this anymore. Nothing matters.
-```
-SOUL should activate crisis mode, ask if you're safe, provide hotline numbers.
-
-**Mode switch:**
-```
-Switch to listener mode. I just need you to listen.
-```
-
 ## What SOUL Detects
 
 | Emotion | How It Looks |
